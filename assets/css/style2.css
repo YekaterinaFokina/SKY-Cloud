@@ -109,7 +109,7 @@ button{
 
 /*SEC2*/
 .section2{
-    background-image: url("../images/2_page/2_section/BG.png");
+    background-image: url("../images/2_page/1_section/MAP.png");
     height: 977.49px;
     text-align: center;
 }
@@ -160,6 +160,7 @@ button{
     color: #ADADAD;
     font-size: 24px;
     font-family: "comf";
+    text-indent: 50px;
 }
 .sec2_button{
     width: 749px;
