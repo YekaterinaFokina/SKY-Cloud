@@ -14,9 +14,7 @@
     padding: 0;
     margin: 0;
 }
-button{
-    cursor: pointer;
-}
+
 
 
 /*header*/
@@ -58,10 +56,6 @@ button{
     color: white;
     margin: 20px;
 }
-.header_main li a:hover{
-    color: #2B4964;
-    cursor: pointer;
-}
 .header_login{
     display: flex;
 }
@@ -78,14 +72,8 @@ button{
     border-style: none;
     border-radius: 18px;
 }
-.header_login button:hover{
-    cursor: pointer;
-    background-color:rgba(255, 255, 255, 0.656);
-}
-
 /*SEC1*/
-.section1{
-}
+
 .section1 div{
     text-align: center;
 }
@@ -109,7 +97,7 @@ button{
 
 /*SEC2*/
 .section2{
-    background-image: url("../images/2_page/1_section/MAP.png");
+    background-image: url("../images/2_page/2_section/BG.png");
     height: 977.49px;
     text-align: center;
 }
@@ -160,7 +148,6 @@ button{
     color: #ADADAD;
     font-size: 24px;
     font-family: "comf";
-    text-indent: 50px;
 }
 .sec2_button{
     width: 749px;
